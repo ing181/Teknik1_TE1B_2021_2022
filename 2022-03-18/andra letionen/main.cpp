@@ -16,5 +16,12 @@ int main()
     // till exempel
     cin >> in;
     cout << in << endl;
+    int i;
+    cin >> i;
+    cout << "Du matade in talet " << i << endl;
+    int j;
+    cin >> j;
+    cout << "Du matade in talet " << j << endl;
+    cout << i " + " << j << " = " << j+i << endl;
     return 0;
 }
