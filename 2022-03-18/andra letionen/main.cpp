@@ -22,6 +22,6 @@ int main()
     int j;
     cin >> j;
     cout << "Du matade in talet " << j << endl;
-    cout << i " + " << j << " = " << j+i << endl;
+    cout << i  << " + " << j << " = " << j+i << endl;
     return 0;
 }
