@@ -2,17 +2,17 @@
 using namespace std;
 int main()
 {
-    // cout är skärmen
-    // << är utmatningsoperatorn
+    // cout ï¿½r skï¿½rmen
+    // << ï¿½r utmatningsoperatorn
     // endl betyder ny rad
     cout << "Hello world!" << endl;
     string in;
-    // cin är tangentbordet
-    // >> är inmatningsoperatorn
-    // in är en variabel
-    // en variabel är till för att innehålla
-    // olika värden.
-    // En textsräng som användaren matat in eller ett tal
+    // cin ï¿½r tangentbordet
+    // >> ï¿½r inmatningsoperatorn
+    // in ï¿½r en variabel
+    // en variabel ï¿½r till fï¿½r att innehï¿½lla
+    // olika vï¿½rden.
+    // En textsrï¿½ng som anvï¿½ndaren matat in eller ett tal
     // till exempel
     cin >> in;
     cout << in << endl;
